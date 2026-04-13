@@ -317,6 +317,7 @@ from repositories.memory import db
 
 
 def criar_usuario(nome: str, email: str):
+    if usuario > 
     pass
 
 
